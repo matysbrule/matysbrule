@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying at Lycée Touchard Washington in Le Mans
-- 🌱 I’m currently learning by myself cybersecurity, more precisely pentesting
+
 
 
 
